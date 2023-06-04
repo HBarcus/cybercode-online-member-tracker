@@ -1,0 +1,14 @@
+{
+  "name": "cybercode-online-member-tracker",
+  "version": "1.0.0",
+  "description": "Tracks stats for members of organizations in the game CyberCode Online via HTML parsing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heath Barcus",
+  "license": "ISC",
+  "dependencies": {
+    "@aternus/csv-to-xlsx": "^2.0.4"
+  }
+}
